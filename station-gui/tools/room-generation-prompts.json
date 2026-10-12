@@ -1,0 +1,54 @@
+{
+  "model": "gpt-image-2",
+  "sharedPrompt": "Top-down 2D pixel art sci-fi spaceship room tile, orthographic view, crisp 16-bit/32-bit pixel art detail, square room with four cardinal connection points. The north, south, west, and east edges must each contain a clear centered architectural doorway built into the room art: open dark passage, metal frame, illuminated threshold, and walkable floor path. Keep the door openings unobstructed and readable. Do not place computers, consoles, lockers, pipes, props, characters, UI labels, or decorative machinery inside or directly over any doorway opening. Room equipment belongs away from the exact middle of each edge. No red markup circles, no screenshot UI, no character sprites, no text baked into the artwork.",
+  "rooms": [
+    {
+      "id": "bridge",
+      "prompt": "Bridge / station control room with command throne, holographic map table, teal circuitry, and navigation panels arranged around the center while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "research",
+      "prompt": "Research lab with specimen rigs, scanners, glass tanks, cool cyan lighting, and workstations offset into corners while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "media",
+      "prompt": "Media room with screen wall, audio rigs, magenta/cyan broadcast equipment, and editing stations offset from the edges while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "war",
+      "prompt": "War room with red tactical strategy table, threat displays, armored walls, and command consoles offset from the four edge centers while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "factory1",
+      "prompt": "Factory I print line with conveyors, robotic tools, packing modules, amber industrial lights, and machinery kept away from edge centers while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "comms",
+      "prompt": "Comms hub with relay table, switching equipment, blue/green signal panels, and computer banks moved away from the exact middle of every wall so the centered north, south, west, and east doorways are real open passages."
+    },
+    {
+      "id": "treasury",
+      "prompt": "Treasury / ledger core with vault logic, account coils, gold storage stacks, glowing central ledger, and clear centered north, south, west, and east doorways free of vault cabinets or computers."
+    },
+    {
+      "id": "factory2",
+      "prompt": "Factory II assembly room with robotic conveyors, servo arms, orange industrial accents, and edge machinery shifted away from the middle of each wall while preserving four clear centered doorways."
+    },
+    {
+      "id": "radar",
+      "prompt": "Radar perimeter room with large sweep table, green radar glow, sensor equipment around corners, and unobstructed centered north, south, west, and east doorways built into the walls."
+    },
+    {
+      "id": "archives",
+      "prompt": "Archives memory room with data stacks, cold storage banks, violet/cyan lights, and archive shelves placed away from the edge centers while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "armory",
+      "prompt": "Armory tool room with weapon lockers, tool benches, red warning lights, and storage shifted away from the four connection points while preserving clear centered north, south, west, and east doorways."
+    },
+    {
+      "id": "quarters",
+      "prompt": "Crew quarters / recovery room with recovery pods, bunks, green medical lights, and furniture offset from wall centers while preserving clear centered north, south, west, and east doorways."
+    }
+  ]
+}
